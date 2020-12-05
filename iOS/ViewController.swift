@@ -12,12 +12,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var dayLabel: UILabel!
     
-    override func viewDidLoad() {
-        super.viewDidLoad()
-
-        dayLabel.text = "Viktor"
-        view.backgroundColor = UIColor.init(hex: 0x9cfff7)
-    }
+    
     
     
     
